@@ -1,0 +1,20 @@
+((("plantuml-enable-debug" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("plantuml" .
+   [0 0 0 1 0 0 0 0])
+  ("flycheck-plantuml-setup" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("flycheck-plantuml" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("require" .
+   [0 0 0 0 0 0 1])
+  ("plantuml-jar-path" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("custom" .
+   [0 0 0 0 0 1])
+  ("plantuml-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("auto-mode-alist" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 0 2])))
