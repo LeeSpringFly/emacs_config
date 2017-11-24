@@ -1,20 +1,42 @@
-((("plantuml-enable-debug" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("plantuml" .
-   [0 0 0 1 0 0 0 0])
-  ("flycheck-plantuml-setup" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("flycheck-plantuml" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("require" .
-   [0 0 0 0 0 0 1])
-  ("plantuml-jar-path" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("custom" .
-   [0 0 0 0 0 1])
-  ("plantuml-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+((("gh-md" .
+   [0 0 1 0 0])
+  ("flymd" .
+   [0 0 0 1 0])
+  ("Package" .
+   [0 0 0 0 0 1 0])
+  ("magit-git" .
+   [0 0 0 0 0 1 0 0 0])
+  ("helm-mode" .
+   [0 0 0 0 0 0 0 0 1])
+  ("helm-M-x" .
+   [0 0 0 0 0 0 1 0])
+  ("global-set-key" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("global-map" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("helm-config" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 0 2])
   ("auto-mode-alist" .
    [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("add-to-list" .
-   [0 0 0 0 0 0 0 0 0 0 2])))
+  ("plantuml-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("custom" .
+   [0 0 0 0 0 1])
+  ("plantuml-jar-path" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("require" .
+   [1 0 0 0 0 0 6])
+  ("flycheck-plantuml" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("flycheck-plantuml-setup" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("plantuml" .
+   [0 0 0 1 0 0 0 0])
+  ("plantuml-enable-debug" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("kbd" .
+   [1 0 0])
+  ("markdown-preview-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])))
