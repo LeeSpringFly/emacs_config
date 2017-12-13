@@ -53,6 +53,10 @@
    "Major mode for editing GitHub Flavored Markdown files" t)
 (add-to-list 'auto-mode-alist '("README\\.md\\'" . gfm-mode))
 
+
+;; markdown-preview-eww
+(require 'markdown-preview-eww)
+
 ;; flycheck
 (package-install 'flycheck)
 (global-flycheck-mode)

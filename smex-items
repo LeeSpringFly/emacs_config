@@ -1,18 +1,18 @@
 
 ;; ----- smex-history -----
 (
- flycheck-mode
- plantuml-mode
- cua-mode
+ cnfonts-edit-profile
  package-list-packages
- markdown-mode
+ org-mode
+ cua-mode
  vdiff-mode
- vdiff-buffers
+ vdiff-3way-mode
+ center-line
 )
 
 ;; ----- smex-data -----
 (
- (package-list-packages . 26)
+ (package-list-packages . 30)
  (magit-status . 3)
  (magit-init . 2)
  (magit-pull . 1)
@@ -23,19 +23,23 @@
  (gh-md-convert-region . 1)
  (gh-md-render-region . 1)
  (gh-md-render-buffer . 12)
- (cnfonts-edit-profile . 2)
+ (cnfonts-edit-profile . 3)
  (repeat . 1)
- (cua-mode . 30)
- (org-mode . 19)
+ (cua-mode . 38)
+ (org-mode . 21)
  (org-latex-export-to-pdf . 1)
  (org-beamer-export-to-pdf . 1)
  (center-line . 3)
  (markdown . 2)
  (org-babel-expand-src-block-maybe . 1)
- (vdiff-buffers . 2)
- (vdiff-mode . 2)
+ (vdiff-buffers . 3)
+ (vdiff-mode . 5)
  (yas-minor-mode . 1)
  (markdown-mode . 1)
  (plantuml-mode . 1)
  (flycheck-mode . 1)
+ (vdiff-3way-mode . 1)
+ (markdown-preview-eww . 3)
+ (markdown-live-preview-mode . 6)
+ (markdown-live-preview-switch-to-output . 1)
 )
