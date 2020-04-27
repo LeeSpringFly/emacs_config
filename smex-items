@@ -2,12 +2,12 @@
 ;; ----- smex-history -----
 (
  cnfonts-edit-profile
+ cnfonts-regenerate-profile
  package-list-packages
  org-mode
  cua-mode
  vdiff-mode
  vdiff-3way-mode
- center-line
 )
 
 ;; ----- smex-data -----
@@ -23,7 +23,7 @@
  (gh-md-convert-region . 1)
  (gh-md-render-region . 1)
  (gh-md-render-buffer . 12)
- (cnfonts-edit-profile . 3)
+ (cnfonts-edit-profile . 6)
  (repeat . 1)
  (cua-mode . 38)
  (org-mode . 21)
@@ -42,4 +42,5 @@
  (markdown-preview-eww . 3)
  (markdown-live-preview-mode . 6)
  (markdown-live-preview-switch-to-output . 1)
+ (cnfonts-regenerate-profile . 1)
 )

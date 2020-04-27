@@ -19,5 +19,7 @@
 (cnfonts-enable)
 ;; 让 spacemacs mode-line 中的 Unicode 图标正确显示。
 ;; (cnfonts-set-spacemacs-fallback-fonts)
+(setq cnfonts-profiles
+    '("JPWin10" "org-mode" "read-book"))
 
-(provide 'init-ui) 
+(provide 'init-ui)
