@@ -1,32 +1,32 @@
 
 ;; ----- smex-history -----
 (
- cnfonts-edit-profile
- cnfonts-regenerate-profile
- package-list-packages
- org-mode
+ repeat
  cua-mode
- vdiff-mode
- vdiff-3way-mode
+ calc
+ animate-birthday-present
+ butterfly
+ package-list-packages
+ markdown-preview-cleanup
 )
 
 ;; ----- smex-data -----
 (
- (package-list-packages . 30)
+ (package-list-packages . 44)
  (magit-status . 3)
  (magit-init . 2)
  (magit-pull . 1)
- (eww . 1)
- (markdown-preview . 5)
+ (eww . 4)
+ (markdown-preview . 9)
  (flymd-flyit . 3)
  (gh-md-export-buffer . 2)
  (gh-md-convert-region . 1)
  (gh-md-render-region . 1)
  (gh-md-render-buffer . 12)
  (cnfonts-edit-profile . 6)
- (repeat . 1)
- (cua-mode . 38)
- (org-mode . 21)
+ (repeat . 3)
+ (cua-mode . 122)
+ (org-mode . 22)
  (org-latex-export-to-pdf . 1)
  (org-beamer-export-to-pdf . 1)
  (center-line . 3)
@@ -36,11 +36,39 @@
  (vdiff-mode . 5)
  (yas-minor-mode . 1)
  (markdown-mode . 1)
- (plantuml-mode . 1)
+ (plantuml-mode . 3)
  (flycheck-mode . 1)
  (vdiff-3way-mode . 1)
- (markdown-preview-eww . 3)
- (markdown-live-preview-mode . 6)
+ (markdown-preview-eww . 4)
+ (markdown-live-preview-mode . 12)
  (markdown-live-preview-switch-to-output . 1)
  (cnfonts-regenerate-profile . 1)
+ (org-tags-view . 1)
+ (ediff . 7)
+ (diff . 1)
+ (ediff-files . 1)
+ (list-packages . 1)
+ (find-grep . 2)
+ (list-matching-lines . 1)
+ (grep . 3)
+ (find-name-dired . 1)
+ (line-number-mode . 2)
+ (list-buffers . 1)
+ (buffer-menu . 1)
+ (shell . 1)
+ (blackbox . 1)
+ (bubbles . 2)
+ (decipher . 2)
+ (text-mode . 1)
+ (decipher-undo . 1)
+ (dunnet . 1)
+ (pong . 1)
+ (describe-coding-system . 7)
+ (customize . 1)
+ (prefer-coding-system . 2)
+ (markdown-preview-mode . 1)
+ (markdown-preview-cleanup . 1)
+ (butterfly . 5)
+ (animate-birthday-present . 5)
+ (calc . 1)
 )
